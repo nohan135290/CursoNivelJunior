@@ -1,0 +1,16 @@
+C:\Users\Nohan\source\repos\NivelJunior\bin\Debug\net5.0\NivelJunior.exe
+C:\Users\Nohan\source\repos\NivelJunior\bin\Debug\net5.0\NivelJunior.deps.json
+C:\Users\Nohan\source\repos\NivelJunior\bin\Debug\net5.0\NivelJunior.runtimeconfig.json
+C:\Users\Nohan\source\repos\NivelJunior\bin\Debug\net5.0\NivelJunior.runtimeconfig.dev.json
+C:\Users\Nohan\source\repos\NivelJunior\bin\Debug\net5.0\NivelJunior.dll
+C:\Users\Nohan\source\repos\NivelJunior\bin\Debug\net5.0\ref\NivelJunior.dll
+C:\Users\Nohan\source\repos\NivelJunior\bin\Debug\net5.0\NivelJunior.pdb
+C:\Users\Nohan\source\repos\NivelJunior\obj\Debug\net5.0\NivelJunior.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\NivelJunior\obj\Debug\net5.0\NivelJunior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nohan\source\repos\NivelJunior\obj\Debug\net5.0\NivelJunior.AssemblyInfoInputs.cache
+C:\Users\Nohan\source\repos\NivelJunior\obj\Debug\net5.0\NivelJunior.AssemblyInfo.cs
+C:\Users\Nohan\source\repos\NivelJunior\obj\Debug\net5.0\NivelJunior.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\NivelJunior\obj\Debug\net5.0\NivelJunior.dll
+C:\Users\Nohan\source\repos\NivelJunior\obj\Debug\net5.0\ref\NivelJunior.dll
+C:\Users\Nohan\source\repos\NivelJunior\obj\Debug\net5.0\NivelJunior.pdb
+C:\Users\Nohan\source\repos\NivelJunior\obj\Debug\net5.0\NivelJunior.genruntimeconfig.cache
