@@ -18,10 +18,10 @@ namespace NivelJunior
             Basicos();
 
             //Calculos matemáticos atraves de abas
-            Triangulos();
+            //Triangulos();
 
             //Conta Bancaria
-            ContaBancaria();
+            //ContaBancaria();
         }
         static void Basicos()
         {
@@ -53,7 +53,8 @@ namespace NivelJunior
             string p2 = vet [1];
             string p3 = vet [2];
 
-            Console.WriteLine(p1 + " " +  p2 + " " + p3);
+            Console.WriteLine(" ");
+            Console.WriteLine("Nome Completo: " + p1 + " " +  p2 + " " + p3);
 
             //Exercicios dos codigos acima.
             Console.WriteLine();
@@ -80,10 +81,10 @@ namespace NivelJunior
             Console.WriteLine(idadeAtual);
             Console.WriteLine(alturaAtual);
 
-            //Relogia utilizando if/ else
+            //Utilizando a função horário no if/ else
             Console.WriteLine();
 
-            Console.WriteLine("Digite o horario: ");
+            Console.WriteLine("Digite o horário: ");
             int hora = int.Parse(Console.ReadLine());
             if(hora < 10 )
             {
@@ -97,6 +98,36 @@ namespace NivelJunior
             {
                 Console.WriteLine("Horário anoite!");
             }
+
+            //Função While para verificação de números
+            Console.WriteLine( );
+            Console.Write("Digite um número: ");
+            double x = double.Parse(Console.ReadLine());
+
+            while(x >= 0.0)
+            {
+                double raiz = Math.Sqrt(x);
+                Console.WriteLine(raiz.ToString("F3", CultureInfo.InvariantCulture));
+                Console.Write("Digite outro número: ");
+                x = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            }
+
+            Console.WriteLine("Número negativo!");
+
+            //Utilizando a função For
+            Console.WriteLine( );
+            Console.Write("Quantos números você vai digitar? ");
+            int N = int.Parse(Console.ReadLine());
+
+            int soma = 0;
+            for (int i = 1; i <= N; i++)
+            {
+                Console.Write("Valor #{0}: ", i);
+                int valor = int.Parse(Console.ReadLine());
+                soma += valor;
+            }
+
+            Console.WriteLine("Soma = " + soma);
         }
 
         static void Triangulos()
